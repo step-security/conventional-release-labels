@@ -37,7 +37,7 @@
     "js-yaml": "^4.1.0",
     "mocha": "^8.2.1",
     "sinon": "^11.1.2",
-    "standard": "^16.0.4"
+    "standard": "^17.1.2"
   },
   "standard": {
     "ignore": "dist/"
